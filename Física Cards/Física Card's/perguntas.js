@@ -19,8 +19,8 @@ criaCartao(
 
 criaCartao(
     'Termodinâmica',
-    'O que é o ponto triplo da água?',
-    'O ponto triplo da água, bem como o de qualquer outra substância, corresponde a um ponto, no diagrama de fases, em que os estados sólido, líquido e gasoso coexistem em equilíbrio termodinâmico.'
+    'O que é e qual é o ponto triplo da água?',
+    'O ponto triplo da água(0,01 °C), bem como o de qualquer outra substância, corresponde a um ponto, no diagrama de fases, em que os estados sólido, líquido e gasoso coexistem em equilíbrio termodinâmico.'
 )
 
 criaCartao(
